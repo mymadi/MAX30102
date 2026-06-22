@@ -1,5 +1,5 @@
 # =========================================================================================
-# 🫀 STANDALONE BIO-TELEMETRYCommand ENGINE (code.py)
+# 🫀 STANDALONE BIO-TELEMETRYCommand ENGINE (code.py).
 # =========================================================================================
 # Description:
 #   This script operates as a dedicated, non-distributed firmware engine designed 
